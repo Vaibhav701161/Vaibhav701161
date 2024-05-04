@@ -1,3 +1,4 @@
+![logo](https://github.com/Vaibhav701161/Vaibhav701161/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
 <h1 align="center">Hi 👋, I'm Vaibhav Mittal</h1>
 <h3 align="center">Building the future of the decentralized web, one block at a time  (Manipal CS '27)✨
 
