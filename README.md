@@ -25,3 +25,5 @@ Currently diving deep into the world of Web3  - Solidity, Chainlink, and all thi
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav701161&show_icons=true&locale=en" alt="vaibhav701161" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav701161&" alt="vaibhav701161" /></p>
+
+[![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://meshery.layer5.io/user/0539a7bc-fd43-4a60-aa05-dbcf498a9905?tab=badges&badge=first-design)
