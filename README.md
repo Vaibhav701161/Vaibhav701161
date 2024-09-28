@@ -18,7 +18,7 @@ I'm a passionate **Computer Science & Engineering** undergraduate at Manipal Uni
 
 - **Contributor at [Layer5](https://layer5.io/)**
 
-  [![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://meshery.layer5.io/user/0539a7bc-fd43-4a60-aa05-dbcf498a9905?tab=badges&badge=first-design)
+  <img src="https://badges.layer5.io/assets/badges/first-design/first-design.png" alt="Layer5 First Design Badge" width="100"/>
 
 ---
 
