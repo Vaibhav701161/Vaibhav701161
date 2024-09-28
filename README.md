@@ -1,29 +1,64 @@
-![logo](https://github.com/Vaibhav701161/Vaibhav701161/blob/main/Blue%20Modern%20Photo%20Technology%20YouTube%20Banner.png)
-<h1 align="center">Hi 👋, I'm Vaibhav Mittal</h1>
-<h3 align="center">Building the future of the decentralized web, one block at a time  (Manipal CS '27)✨
+<h1 align="center">Hi there, I'm Vaibhav Mittal 👋</h1>
 
-Currently diving deep into the world of Web3  - Solidity, Chainlink, and all things smart contracts ️.</h3>
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+---
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vaibhav701161&label=Profile%20views&color=0e75b6&style=flat" alt="vaibhav701161" /> </p>
+I'm a passionate **Computer Science & Engineering** undergraduate at Manipal University, currently in my second year. With a strong foundation in software development, I specialize in building scalable web applications using modern technologies.
 
-- 💬 Ask me about anything in **Solidity,rust,web3.js**
+- 💻 **Proficient in:** React.js
+- 🚀 **Tech Stack:** MERN (MongoDB, Express.js, React.js, Node.js)
+- 🌐 **Also Familiar with:** Ethereum Stack
+- 📚 **Currently Learning:** Cloud-native technologies (Docker, Kubernetes, AWS)
+- 🔧 **Languages:** JavaScript, Go, Java, TypeScript, C
+- 🎯 **Interests:** Deeply invested in cloud-native tech and its applications
+- 🌟 **Open Source Contributor:** Actively contributing to [Layer5](https://layer5.io/)
 
-- 📫 How to reach me **vaibhavmittal146@gmail.com**
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/https://twitter.com/vaibhavmittal72" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/vaibhavmittal72" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/www.linkedin.com/in/vaibhav-mittal-9163431b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/vaibhav-mittal-9163431b4" height="30" width="40" /></a>
+### 🌟 Open Source Contributions:
+
+- **Contributor at [Layer5](https://layer5.io/)**
+
+  [![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://meshery.layer5.io/user/0539a7bc-fd43-4a60-aa05-dbcf498a9905?tab=badges&badge=first-design)
+
+---
+
+### 🛠️ Languages and Tools:
+
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" alt="Go"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/Java-007396?logo=java&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/C-A8B9CC?logo=c&logoColor=black" alt="C"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" alt="Kubernetes"/>
+  <img src="https://img.shields.io/badge/AWS-232F3E?logo=amazon-aws&logoColor=white" alt="AWS"/>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://www.rust-lang.org" target="_blank" rel="noreferrer"> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vaibhav701161&show_icons=true&locale=en&layout=compact" alt="vaibhav701161" /></p>
+### 📊 GitHub Stats:
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vaibhav701161&show_icons=true&locale=en" alt="vaibhav701161" /></p>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Vaibhav701161&show_icons=true&theme=dark" alt="Vaibhav's GitHub stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Vaibhav701161&theme=dark" alt="Vaibhav's GitHub streak"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=vaibhav701161&" alt="vaibhav701161" /></p>
+---
 
-[![First Design](https://badges.layer5.io/assets/badges/first-design/first-design.png)](https://meshery.layer5.io/user/0539a7bc-fd43-4a60-aa05-dbcf498a9905?tab=badges&badge=first-design)
+### 📫 Connect with Me:
+
+<p>
+  <a href="https://twitter.com/vaibhavmittal72" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white" alt="Twitter"/>
+  </a>
+  <a href="https://linkedin.com/in/vaibhav-mittal-9163431b4" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="mailto:vaibhavmittal146@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+</p>
+
