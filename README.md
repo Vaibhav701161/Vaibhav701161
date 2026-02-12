@@ -5,7 +5,8 @@ I'm a CS Junior at Manipal University, focused on backend systems, distributed a
 ## What I'm Working On
 
 **Currently Building:**
-- **[god-complex](https://github.com/Vaibhav701161/god-complex)** - A private accountability platform that enforces commitment integrity through public tracking, automatic penalties, and real stakes. Where doing what you said matters more than what you promised.
+- **[god-complex](https://www.godcomplex.app/)** - A private accountability platform that enforces commitment integrity through public tracking, automatic penalties, and real stakes. Where doing what you said matters more than what you promised.
+
 
 **Recently Shipped:**
 - **[CI-Centinal](https://github.com/Vaibhav701161/CI-Centinal)** - A job-level CI observability engine for GitHub Actions that provides actionable health metrics and architecture divergence detection. Built with Go, featuring nightly failure detection, regression alerts, and multi-channel notifications (Slack, webhooks).
