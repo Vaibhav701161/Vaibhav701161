@@ -30,7 +30,7 @@ I'm a CS Junior at Manipal University focused on backend systems, distributed ar
 **Currently Building**
 
 **[Plexor AI](https://github.com/Vaibhav701161/Plexor-Ai)** `Python` `FastAPI` `TypeScript` `VS Code Extension`
-- Local-first engineering planning tool — runs a software request through a multi-agent pipeline and returns a structured implementation plan executable in your repo
+- Local-first engineering planning tool - runs a software request through a multi-agent pipeline and returns a structured implementation plan executable in your repo
 - Streaming REST API with a verification loop; VS Code extension with pipeline graph, plan dashboard, and session history
 
 **Recently Shipped**
