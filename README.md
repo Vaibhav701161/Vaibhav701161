@@ -97,48 +97,7 @@ I'm a CS Junior at Manipal University focused on backend systems, distributed ar
 
 <br/>
 
-##  Open Source Contributions
 
-### JSON Schema Ecosystem
-
-Contributing across the JSON Schema ecosystem - format validation, RFC grammar coverage, and cross-validator consistency.
-
-| Repository | Contribution | Status |
-|---|---|---|
-| [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) | [Test: add tests for empty enum validation](https://github.com/json-schema-org/JSON-Schema-Test-Suite) | `WIP` |
-| [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) | [test(format): add RFC1123 hostname case with consecutive hyphens](https://github.com/json-schema-org/JSON-Schema-Test-Suite) | `Merged` |
-| [json-schema-org/JSON-Schema-Test-Suite](https://github.com/json-schema-org/JSON-Schema-Test-Suite) | [test(duration): expand RFC 3339 grammar coverage for duration format](https://github.com/json-schema-org/JSON-Schema-Test-Suite) | `Merged` |
-| [sourcemeta/core](https://github.com/sourcemeta/core) | [feat(linter): add forbid_empty_enum rule](https://github.com/sourcemeta/core) | `WIP` |
-| [sourcemeta/core](https://github.com/sourcemeta/core) | [feat: add standard input ("-") support across CLI commands](https://github.com/sourcemeta/core) | `Merged` |
-| [sourcemeta/jsonschema](https://github.com/sourcemeta/jsonschema) | [CLI: add stdin support for instance validation](https://github.com/sourcemeta/jsonschema) | `Merged` |
-| [sourcemeta/jsonschema](https://github.com/sourcemeta/jsonschema) | [Refactor internal handling of input files](https://github.com/sourcemeta/jsonschema) | `Merged` |
-| [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) | [fix(format): use RFC1123 hostname validator for legacy drafts](https://github.com/hyperjump-io/json-schema) | `WIP` |
-| [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) | [draft-04 / draft-06 hostname format wired to IDNA validator](https://github.com/hyperjump-io/json-schema) | `Open` |
-| [hyperjump-io/json-schema](https://github.com/hyperjump-io/json-schema) | [uri-template validator rejects valid RFC6570 operators](https://github.com/hyperjump-io/json-schema) | `Open` |
-| [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) | [fix(schema): linting issues in appsscript.json and asconfig-schema.json](https://github.com/SchemaStore/schemastore) | `Merged` |
-| [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) | [feat(schema): add Flatpak Builder manifest JSON schema](https://github.com/SchemaStore/schemastore) | `Merged` |
-| [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) | [fix(schema): normalize volumes metadata in azure-containerapp-template.json](https://github.com/SchemaStore/schemastore) | `Merged` |
-| [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) | [fix(schema): linting issues in abc-supply-plan schemas](https://github.com/SchemaStore/schemastore) | `Merged` |
-| [SchemaStore/schemastore](https://github.com/SchemaStore/schemastore) | [fix(schema): normalize descriptions in ctfd.json and devinit.schema-1.0.json](https://github.com/SchemaStore/schemastore) | `Merged` |
-
-### Maxim AI
-
-Contributing to [maximhq/bifrost](https://github.com/maximhq/bifrost), a high-performance AI gateway.
-
-| Repository | Contribution | Status |
-|---|---|---|
-| [maximhq/bifrost](https://github.com/maximhq/bifrost) | [feat(providers): store raw request/response without returning to clients](https://github.com/maximhq/bifrost) | `WIP` |
-| [maximhq/bifrost](https://github.com/maximhq/bifrost) | [feat(fallbacks): support model-specific params in fallback entries](https://github.com/maximhq/bifrost) | `Merged` |
-| [maximhq/bifrost](https://github.com/maximhq/bifrost) | [feat(genai): add Gemini metadata endpoint support](https://github.com/maximhq/bifrost) | `Merged` |
-| [maximhq/bifrost](https://github.com/maximhq/bifrost) | [fix(logging): avoid loading raw request/response in log list queries](https://github.com/maximhq/bifrost) | `Merged` |
-| [maximhq/bifrost](https://github.com/maximhq/bifrost) | [[Feature]: W3C trace context propagation to upstream provider requests](https://github.com/maximhq/bifrost) | `Open` |
-
-
-<br/>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<br/>
 
 ##  Technical Stack
 
